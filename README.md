@@ -3,7 +3,7 @@
 
 ## Introduction 
 
-In this lesson, we'll learn about the topic of this section, and how it will be useful in a career as a Data Scientist. 
+In this section, you'll learn about more advance SQL operations. You'll also get a chance to answer some SQL interview questions to help prepare you for those you might find in the job search!
 
 ## Objectives
 
@@ -21,4 +21,4 @@ In this section, we'll start by reviewing some of the more complex concepts we'v
 
 # Summary
 
-In this lesson, we learned about the topics and goals for this section. 
+You'll often find that the most interesting data might not be the most accessible! This section is about learning how to make queries to result in more complex data.
