@@ -1,5 +1,5 @@
 
-# SQL Practice
+# More SQL - Introduction
 
 ## Introduction 
 
